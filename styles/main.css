@@ -1,0 +1,50 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+  box-sizing: border-box;
+}
+html {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(pink, rgb(237, 150, 227), rgb(243, 146, 234));
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em;
+  font-weight: 1000;
+}
+
+h2 {
+  font-size: 2.9em;
+  font-weight: 1000;
+}
+
+p {
+  font-size: 1.3em;
+  font-weight: 1000;
+}
+
+.centrar {
+  margin-left: 4em;
+  margin-right: 2em;
+  text-align: center;
+}
+
+button {
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-size: 1.3em;
+  font-weight: 1000;
+}
+
+th,
+td {
+  font-size: 1.3em;
+  font-weight: 1000;
+}
